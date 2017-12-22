@@ -1,0 +1,22 @@
+{
+  "name": "erply_theme",
+  "version": "0.0.1",
+  "description": "Erply wordpress theme",
+  "license": "MIT",
+  "devDependencies": {
+    "grunt": "latest",
+    "grunt-contrib-sass": "latest",
+    "grunt-postcss": "latest",
+    "autoprefixer": "latest",
+    "grunt-contrib-cssmin": "latest",
+    "grunt-contrib-uglify": "latest",
+    "grunt-contrib-watch": "latest"
+  },
+  "dependencies": {
+    "bootstrap-sass": "^3.3.7",
+    "bulma": "^0.6.0",
+    "jquery": "^3.2.1",
+    "jquery-match-height": "^0.7.2",
+    "jquery.equalheights": "^1.5.3"
+  }
+}
